@@ -323,3 +323,6 @@ If you have any issues or questions, reach out to us on [Discord](https://discor
 ## Building Schema and Types
 GraphQL Schema: `yarn payload generate:graphQLSchema`
 Types: `yarn generate:types`
+
+## Installation and Build
+- Use `yarn` - run `yarn` and then `yarn dev`
