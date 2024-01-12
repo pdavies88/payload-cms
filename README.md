@@ -326,3 +326,6 @@ Types: `yarn generate:types`
 
 ## Installation and Build
 - Use `yarn` - run `yarn` and then `yarn dev`
+
+## Stripe
+- Add in Stripe Secret and Stripe Public Key in correct slots in .env file
